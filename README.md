@@ -1,5 +1,5 @@
 # Project:
-React Api App
+React Social Media App
 # Made by:
 Me (no other contributors)
 # What it does:
